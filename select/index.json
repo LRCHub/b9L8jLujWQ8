@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "寝・逃・げでリセット！",
+  "base_artist": "柊つかさ (CV.福原香織)",
+  "createdAt": "2026-02-25T12:25:19.020442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット!",
+      "artist": "柊つかさ",
+      "has_synced": true,
+      "path": "select/01_寝・逃・げでリセット!_柊つかさ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット！",
+      "artist": "柊つかさ (CV.福原香織)",
+      "has_synced": false,
+      "path": "select/02_寝・逃・げでリセット!_柊つかさ_(CV.福原香織).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット!",
+      "artist": "柊つかさ (福原香織)",
+      "has_synced": false,
+      "path": "select/03_寝・逃・げでリセット!_柊つかさ_(福原香織).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット! (off vocal)",
+      "artist": "柊つかさ (福原香織)",
+      "has_synced": false,
+      "path": "select/04_寝・逃・げでリセット!_(off_vocal)_柊つかさ_(福原香織).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット！",
+      "artist": "柊つかさ(福原香織)",
+      "has_synced": false,
+      "path": "select/05_寝・逃・げでリセット!_柊つかさ(福原香織).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット！",
+      "artist": "柊つかさ(福原香織)",
+      "has_synced": true,
+      "path": "select/06_寝・逃・げでリセット!_柊つかさ(福原香織).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット!-福原香織",
+      "artist": "福原香織",
+      "has_synced": false,
+      "path": "select/07_寝・逃・げでリセット!-福原香織_福原香織.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット!",
+      "artist": "福原香織",
+      "has_synced": false,
+      "path": "select/08_寝・逃・げでリセット!_福原香織.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット",
+      "artist": "柊つかさ(福原香織)",
+      "has_synced": false,
+      "path": "select/09_寝・逃・げでリセット_柊つかさ(福原香織).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット!",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/10_寝・逃・げでリセット!_しぐれうい.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット! (off vocal)",
+      "artist": "福原香織",
+      "has_synced": false,
+      "path": "select/11_寝・逃・げでリセット!_(off_vocal)_福原香織.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット!",
+      "artist": "柊つかさ ( 福原香織)",
+      "has_synced": false,
+      "path": "select/12_寝・逃・げでリセット!_柊つかさ_(_福原香織).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "寝・逃・げでリセット!",
+      "artist": "柊つかさ（福原香織）",
+      "has_synced": true,
+      "path": "select/13_寝・逃・げでリセット!_柊つかさ(福原香織).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寝・逃・げでリセット!",
+      "artist": "柊つかさ(福原香織)",
+      "has_synced": false,
+      "path": "select/pl_01_寝・逃・げでリセット!_柊つかさ(福原香織).txt"
+    }
+  ]
+}
